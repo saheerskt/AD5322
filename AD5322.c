@@ -1,5 +1,5 @@
 /***************************************************************************************************************
- *											 Digital to Analog Convertor-10bit
+ *						Digital to Analog Convertor-12bit
  *   Filename:           DAC5322.c	
  *   Dependencies:       DAC5322.h
  *                     	 	
